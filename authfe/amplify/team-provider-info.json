@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nkapp-staging-01700-authRole",
+      "UnauthRoleArn": "arn:aws:iam::182111778444:role/amplify-nkapp-staging-01700-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::182111778444:role/amplify-nkapp-staging-01700-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nkapp-staging-01700-deployment",
+      "UnauthRoleName": "amplify-nkapp-staging-01700-unauthRole",
+      "StackName": "amplify-nkapp-staging-01700",
+      "StackId": "arn:aws:cloudformation:us-east-1:182111778444:stack/amplify-nkapp-staging-01700/29643c30-6156-11ed-9a9a-0a12f90bfd41",
+      "AmplifyAppId": "d29231mh1jojb3"
+    },
+    "categories": {
+      "auth": {
+        "nkapp": {}
+      }
+    }
+  }
+}
